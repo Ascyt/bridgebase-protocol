@@ -45,12 +45,12 @@ A quick overview of what you'll need to do:
 1. Go to `about:preferences` again.
 2. Search for "certificates":
 ![firefox preferences search certificates](./readme-images/firefox-prefences-search-certificates.png)
-3. A window will pop up:
+3. Click on "View Certificates...". A window will pop up:
 ![firefox certificate manager](./readme-images/firefox-certificate-manager.png) 
 4. Make sure you are in the "Authorities" tab and click on "Import..."
-5. A file selection screen will open. Type in `%USERPROFILE%\.mitmproxy` into the address bar. Select the `mitmproxy-ca-cert.cer` file and press on Open.
+5. A file selection screen will open. Type in `%USERPROFILE%\.mitmproxy` into the explorer bar. Select the `mitmproxy-ca-cert.cer` file and press on Open.
 ![import certificate](./readme-images/import-certificate.png)
-6. Press on "OK" and you should be good to go!
+6. Press on "OK" and you should be good to go! You will only need to do this step once.
 
 ### Step 3: Running the program
 
