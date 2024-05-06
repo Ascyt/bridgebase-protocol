@@ -57,7 +57,7 @@ A quick overview of what you'll need to do:
 Now you should be able to simply double-click `startproxy.bat` in the explorer to run the proxy! You don't need to touch the console window that appears, just don't close it until you're done. 
 ![explorer run proxy](./readme-images/explorer-run-proxy.png)
 
-### Step 4: Logging
+### Step 4: Playing BBO and Logging
 
 While the program is running, you can visit [Bridge Base Online](https://bridgebase.com/) and play! This program will log the cards getting played and the responses, including some information when the game is finished. 
 
@@ -65,7 +65,7 @@ The log is updated real-time in `./output.txt`.
 
 **Warning**: When you restart the program the `output.txt` file will be overwritten.
 
-## Step 5: Exiting the program
+### Step 5: Exiting the program
 
 Simply close the console window that appeared in step 3 to close the proxy. 
 
