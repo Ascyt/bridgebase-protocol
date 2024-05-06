@@ -1,7 +1,4 @@
 from mitmproxy import http
-import urllib.parse
-import re
-import json
 
 from format import *
 
