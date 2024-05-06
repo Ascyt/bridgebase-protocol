@@ -1,0 +1,172 @@
+Response: 3 of Clubs
+Played: ['2 of Clubs']
+Response: Ace of Clubs
+Played: ['6 of Clubs']
+Response: Jack of Hearts
+Played: ['4 of Hearts']
+Response: 2 of Hearts
+Played: ['5 of Hearts']
+Response: Jack of Clubs
+Played: ['King of Clubs']
+Response: 4 of Spades
+Played: ['4 of Clubs']
+Response: 3 of Hearts
+Played: ['6 of Hearts']
+Response: Queen of Hearts
+Played: ['2 of Spades', 'Ace of Spades']
+Response: 8 of Spades
+Played: ['5 of Spades']
+Response: 7 of Spades
+Played: ['King of Spades']
+Response: 3 of Spades
+Played: ['3 of Diamonds']
+Response: Jack of Spades
+Played: []
+Response: 5 of Hearts
+
+-------------------------- GAME ENDED --------------------------
+
+Dealer: South
+Board: 3
+Scoring: MP
+Vulnerability: e
+
+South: s76543 hKQT dAK4 cJ5 
+Dummy: sAQJ92 h62 dQJ3 cA42 
+
+South: 1s (Major suit opening -- 5+ !S; 11-21 HCP; 12-22 total points)
+West: p
+North: 2n (Jacoby -&gt; support; balanced -- 4+ !S; 13+ total points)
+East: p
+South: 4s (Balanced minimum -- 2+ !C; 2+ !D; 2+ !H; 5+ !S; 11-14 HCP; 12-15 total points)
+West: p
+North: p
+East: p
+
+Final contract: 1s by South
+
+################################################################
+
+
+Response: 5 of Hearts
+-------------------------- GAME ENDED --------------------------
+
+Dealer: South
+Board: 3
+Scoring: MP
+Vulnerability: e
+
+South: s76543 hKQT dAK4 cJ5 
+Dummy: sAQJ92 h62 dQJ3 cA42 
+
+South: 1s (Major suit opening -- 5+ !S; 11-21 HCP; 12-22 total points)
+West: p
+North: 2n (Jacoby -&gt; support; balanced -- 4+ !S; 13+ total points)
+East: p
+South: 4s (Balanced minimum -- 2+ !C; 2+ !D; 2+ !H; 5+ !S; 11-14 HCP; 12-15 total points)
+West: p
+North: p
+East: p
+
+Final contract: 1s by South
+
+################################################################
+
+
+Played: ['2 of Hearts']
+Response: Ace of Hearts
+Played: ['10 of Hearts']
+Response: 5 of Diamonds
+Played: ['Ace of Diamonds']
+Response: 9 of Diamonds
+Played: ['3 of Diamonds', '3 of Spades']
+Response: 10 of Spades
+Played: ['Queen of Spades']
+Response: 8 of Spades
+Played: ['Ace of Spades']
+Response: 6 of Clubs
+Played: ['4 of Spades']
+Response: King of Spades
+Played: []
+Response: 10 of Diamonds
+-------------------------- GAME ENDED --------------------------
+
+Dealer: West
+Board: 4
+Scoring: MP
+Vulnerability: b
+
+South: s6543 h72 dQ963 cAK5 
+Dummy: sAQ87 hKJ9 dJ54 cQT9 
+
+West: p
+North: 1c (Minor suit opening -- 3+ !C; 11-21 HCP; 12-22 total points)
+East: p
+South: 1s (One over one -- 4+ !S; 6+ total points)
+West: p
+North: 2s (Simple raise -- 3+ !C; 4 !S; 11+ HCP; 12-15 total points)
+East: p
+South: p
+West: p
+
+Final contract: 1s by South
+
+################################################################
+
+
+Played: ['4 of Diamonds']
+Response: King of Diamonds
+Played: ['3 of Diamonds']
+Response: Ace of Diamonds
+Played: ['6 of Diamonds']
+Response: 2 of Diamonds
+Played: ['5 of Diamonds']
+Response: 7 of Diamonds
+Played: ['9 of Diamonds']
+Response: 9 of Spades
+Played: ['Jack of Diamonds']
+Response: 8 of Clubs
+Played: ['9 of Clubs']
+Response: Jack of Clubs
+Played: ['Ace of Clubs', '3 of Spades']
+Response: Jack of Spades
+Played: ['Queen of Spades']
+Response: King of Spades
+Played: []
+Response: 5 of Hearts
+Played: ['2 of Hearts']
+Response: Ace of Hearts
+Played: ['9 of Hearts']
+Response: 3 of Clubs
+Played: ['Queen of Clubs']
+Response: 4 of Clubs
+Played: ['5 of Clubs', 'Ace of Spades']
+Response: 2 of Spades
+Played: ['4 of Spades']
+Response: 10 of Hearts
+Played: []
+Response: 2 of Spades
+-------------------------- GAME ENDED --------------------------
+
+Dealer: North
+Board: 5
+Scoring: MP
+Vulnerability: n
+
+South: sA6 hKQT74 dQT85 c75 
+Dummy: sQ9 hAJ85 dAJ74 cK96 
+
+North: 1n (notrump opener. Could have 5M. -- 2-5 !C; 2-5 !D; 2-5 !H; 2-5 !S; 15-17 HCP; 18- total points)
+East: 2s (Cappelletti - spades and a minor -- 3- !H; 4+ !S; 11+ total points)
+South: 3h (Lebensohl -- 5+ !H; 10+ total points; forcing to 3N)
+West: p
+North: 4h (Minimum with support -- 2-5 !C; 2-5 !D; 3-5 !H; 2-5 !S; 15-16 HCP; 18- total points)
+East: p
+South: p
+West: p
+
+Final contract: 3h by South
+
+################################################################
+
+
