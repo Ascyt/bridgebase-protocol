@@ -1,6 +1,6 @@
 # Bridgebase Protocol
 
-This is a simple program that just logs BBO games. 
+This is a simple program that just logs [Bridge Base Online](https://bridgebase.com/) games. 
 
 ## Installation
 In the following you will see an example installation with Windows 11 and Firefox.
