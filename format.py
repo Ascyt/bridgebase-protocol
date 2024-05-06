@@ -166,12 +166,13 @@ def format_finish_full(a, b):
 
     return s
 
-with open('testinputa.txt', 'r') as f:
-    s = f.read()
-    formattedA = format_finish1(s)
+if __name__ == '__main__':
+    with open('testinputa.txt', 'r') as f:
+        s = f.read()
+        formattedA = format_finish1(s)
 
-with open('testinputb.txt', 'r') as f:
-    s = f.read()
-    formattedB = format_finish2(s)
+    with open('testinputb.txt', 'r') as f:
+        s = f.read()
+        formattedB = format_finish2(s)
 
-print(format_finish_full(formattedA, formattedB))
+    print(format_finish_full(formattedA, formattedB))
