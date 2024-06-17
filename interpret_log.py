@@ -18,12 +18,16 @@ def response(flow: http.HTTPFlow) -> None:
         with open('output.txt', 'a') as f:  
             f.write(f'Played: {cards}\n')
 
+        check_both(True)
+
     if flow.request.method == 'POST' and '<sc_card_played card=' in flow.response.get_text():
         s = str(flow.response.get_text())
         card = format_response(s)
 
         with open('output.txt', 'a') as f:
             f.write('Response: ' + card + '\n')
+
+        check_both(True)
 
     if flow.request.method == 'POST' and '<sc_deal ' in flow.response.get_text():
         s = str(flow.response.get_text())
@@ -36,11 +40,20 @@ def response(flow: http.HTTPFlow) -> None:
         check_both()
         
 
-def check_both():
+def check_both(run_anyways=False):
     global finish1, finish2
 
     if finish1 is not None and finish2 is not None:
         with open('output.txt', 'a') as f:
             f.write(format_finish_full(finish1, finish2))
+        finish1 = None
+        finish2 = None
+        return
+
+    if run_anyways:
+        if finish1 is not None:
+            print(finish1)
+        if finish2 is not None:
+            print(finish2)
         finish1 = None
         finish2 = None
